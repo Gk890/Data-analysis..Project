@@ -90,16 +90,6 @@ This dashboard provides a snapshot of your e-commerce operations with the follow
 
 - Pie chart showing gender-based rating distribution:
 
-- Female: 50%
-
-- Male: 38%
-
-- Other: 4%
-
-- Unknown: 8%
-
-- Order Modes
-
 - Line chart comparing transaction volume and revenue across platforms:
 
 - App, Instagram, Partner App, Target.com, Website
