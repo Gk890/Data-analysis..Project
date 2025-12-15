@@ -1,7 +1,5 @@
  📊 Sales Report Dashboard - 2025
-A comprehensive and interactive dashboard for visualizing and analyzing sales performance across products, regions, and sales personnel.
-
-Built to help businesses gain actionable insights and drive data-informed decisions.
+A comprehensive and interactive dashboard for visualizing and analyzing sales performance across products, regions, and sales personnel.Built to help businesses gain actionable insights and drive data-informed decisions.
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 🚀 Features
@@ -53,9 +51,7 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________________________________________
 📌 Notes
-You can change the data easily or connect it to your own database. 
-
-The charts will update automatically.
+You can change the data easily or connect it to your own database. The charts will update automatically.
 
 
 
