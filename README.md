@@ -1,4 +1,13 @@
- 📊 Sales Report Dashboard - 2025
+#📊Excel Dashboard – Project Description
+
+Overview
+
+This project provides an interactive Excel dashboard designed to visualize and analyze data efficiently. It combines the flexibility of Excel with structured reporting, making it easy to track metrics, identify
+
+trends, and present insights in a professional format.
+
+___________________________________________________________________________________________________________________________________________________________________________________________________________________
+📊 Sales Report Dashboard - 2025
 A comprehensive and interactive dashboard for visualizing and analyzing sales performance across products, regions, and sales personnel.Built to help businesses gain actionable insights and drive data-informed decisions.
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
